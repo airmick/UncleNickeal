@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Uncle Nickael</string>
+    <string name="description">Nickael Ops</string>
+    <string name="banner">image profile of the app</string>
+    <string name="horraire">Mon - Thurs</string>
+    <string name="timer">9am - 5pm</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="ourcompany_about">The business of our company</string>
+    <string name="contact_nums">082 000 0001</string>
+    <string name="our_operation">Hours of operation</string>
+    <string name="example_descr">Nickaels Ops dolor sit amet, consectetur adipiscing elit. Maecenas mattis odio a dui laoreet mattis. Pellentesque in rhoncus augue. Mauris at nunc sit amet dui aliquet blandit eu eget orci. Morbi pharetra, metus eget lacinia bibendum, quam tortor suscipit ipsum, non blandit turpis libero ac odio. Suspendisse vulputate pellentesque semper. Donec mollis facilisis enim at rutrum. Nullam eleifend, felis quis pulvinar accumsan, sapien turpis venenatis nisi, at pretium quam urna vitae ipsum. Nunc. Ut semper eros nec eros tempus, at cursus nisl dictum. Phasellus faucibus mollis mattis. Nulla at mauris efficitur, molestie ante rhoncus, ultricies massa. Nam et felis tincidunt, tempus massa nec, ornare massa. Quisque tristique purus sed nulla luctus suscipit. Nullam ut tempor neque. Integer tempor ligula ut ornare semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed aliquet mauris vitae neque posuere, placerat fermentum sem porta.</string>
+</resources>
